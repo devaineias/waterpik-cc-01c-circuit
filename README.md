@@ -72,4 +72,7 @@ The toothbrush as stated on Waterpik's website, uses 3 Ni-Cd batteries connected
 | 20  | MCP73831T-2ACI/OT | U2         | 1        | MCP73831T-2ACI/OT     | LCSC     | 0.691       |
 | 21  | 680kΩ Resistor    | U3         | 1        | CR1/4W-680K±5%-RT52   | LCSC     | 0.004       |
 | 22  | MAX17502FATB+T    | U5         | 1        | MAX17502FATB+T        | LCSC     | 1.111       |
+| 23  | 5A Schottky Diode | -          | 2        | XL-1608SURC-04        | LCSC     | 0.151       |
+
+
 
