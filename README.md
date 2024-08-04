@@ -7,10 +7,10 @@ The Waterpik Complete Care 9.0 (CC-01W) is a water flosser with a separate sonic
 There haven't been any mentions of the mechanical parts failing, which is a good sign.
 
 #### How does the Waterpik's circuit work?
-The device works strictly with North America's 120V AC. It does not have a adapter to convert and step down the voltage to usable and safe levels. Rather the circuit inside the device converts the 120V AC to DC with a full bridge rectifier that uses 8 instead of the usual 4 diodes and a capacitor. Then, the circuit has 3 jobs to do:
-1. Turn the motor on and off
-2. Step down the voltage
-3. Wirelessly charge the toothbrush
+The device works strictly with North America's 120V AC. It does not have a adapter to convert and step down the voltage to usable and safe levels. Rather the circuit inside the device converts the 120V AC to DC with a full bridge rectifier that uses 8 instead of the usual 4 diodes and a capacitor. Then, the circuit does 3 things:
+1. Turns the motor on and off
+2. Steps down the voltage
+3. Wirelessly charges the toothbrush (when toothbrush is plugged in)
 
 The motor that Waterpik has chosen is the Johnson DF315XLG, which works with 120V DC and only has a lifespan of 150 hours as stated in the [documentation](https://www.effebibo.it/wp-content/uploads/2019/03/Series_High%20Voltage%20DC%20Motors_Metric.pdf) which explains the motor failures stated on the reviews. Also, the device sets the water pressure mechanically instead of reducing motor speed with PWM, which contributes to motor wear. 
 
