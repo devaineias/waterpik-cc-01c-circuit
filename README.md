@@ -48,7 +48,7 @@ The toothbrush as stated on Waterpik's website, uses 3 Ni-Cd batteries connected
 
 --
 
-### Electrical components needed
+## Electrical components needed
 
 | ID  | Name              | Designator | Quantity | Manufacturer Part     | Supplier | Price (USD) |
 | --- | ----------------- | ---------- | -------- | --------------------- | -------- | ----------- |
