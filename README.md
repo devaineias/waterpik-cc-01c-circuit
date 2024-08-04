@@ -28,7 +28,7 @@ To make the device last way longer and actually safe, we can use either a 12V or
 Luckily for you, I already designed the circuit.
 
 #### How the new circuit works
-As a power source, I chose a old adapter that outputs 12V DC and can do 4.16A. You should choose your adapter based on the motor you selected. The circuit can take 12 to 24V DC and the traces (assuming the board's copper weight is 1 oz/sq ft and traces are located on the outer layers) can handle 4.8A combined (4.16A for motor, ~0.6A for charger circuit). The circuit can be divided into 3 parts:
+As a power source, I chose an old adapter that outputs 12V DC and can do 4.16A. You should choose your adapter based on the motor you selected. The circuit can take 12 to 24V DC and the traces (assuming the board's copper weight is 1 oz/sq ft and traces are located on the outer layers) can handle 4.8A combined (4.16A for motor, ~0.6A for charger circuit). The circuit can be divided into 3 parts:
 
 1. Soft power latching
 2. Buck converter
