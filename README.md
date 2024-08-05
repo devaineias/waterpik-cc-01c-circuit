@@ -44,9 +44,6 @@ For the battery charger, we ditch wireless charging and instead use the MCP73831
 3. 4.40V
 4. 4.50V
 
-The toothbrush as stated on Waterpik's website, uses 3 Ni-Cd batteries connected in series with a total voltage output of 3.6V and total capacity of 680mAh. We will be replacing those with a single 18500 Li-Ion battery (18650 doesn't fit), which has an output voltage of 3.7V-4.2V, and depending on which battery you choose, it will usually have a slightly higher capacity. A BMS should be added to the battery for protection. Now to actually charge the battery we will make 2 small holes on the bottom cap of the toothbrush and insert 2 galvanized nails (to prevent rust) with the pointy sides up. Then we solder 2 wires on each nail and connect them to the battery terminals, bypassing the toothbrush's wireless charging circuit. To help with preventing connecting the toothbrush to the charger in reverse, we add 2 magnets with opposing poles on each side. Then we verify the connections and that the toothbrush is working and finally we cover the bottom cap with silicone or glue for a waterproof fit and let it dry. 
-
---
 
 ## Electrical components needed
 
@@ -75,5 +72,10 @@ The toothbrush as stated on Waterpik's website, uses 3 Ni-Cd batteries connected
 | 23  | 5A Schottky Diode | -          | 2        | XL-1608SURC-04      | LCSC     | C7503125      | 0.151       |
 
 
+# Project Status
+Currently awaiting materials and tools needed
+
+# Project ETA 
+Early September 2024
 
 
