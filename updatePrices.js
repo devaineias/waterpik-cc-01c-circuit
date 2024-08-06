@@ -49,8 +49,8 @@ async function calculatePrices(component) {
     }
   }
 
-  const totalPrice = (unitPrice * component.quantity).toFixed(3);
-  const minTotalPrice = (unitPrice * Math.max(component.quantity, minBuyNumber)).toFixed(3);
+  const totalPrice = (unitPrice * component.quantity);
+  const minTotalPrice = (unitPrice * Math.max(component.quantity, minBuyNumber));
 
   return { unitPrice, totalPrice, minTotalPrice };
 }
@@ -84,8 +84,8 @@ async function updateMarkdownFile() {
     newContent += `| ${component.name} | ${component.designator} | ${component.quantity} | ${component.productModel} | LCSC | ${component.productCode} | ${unitPrice} | ${totalPrice} | ${minTotalPrice} |\n`;
   }
 
-  newContent += `\nTotal Price per Specified Quantity: $${totalSpecifiedQuantityPrice.toFixed(3)}\n\n`;
-  newContent += `Total Price (Min Order Amount): $${totalMinOrderAmountPrice.toFixed(3)}\n`;
+  newContent += `\nTotal Price per Specified Quantity: $${totalSpecifiedQuantityPrice.toFixed(2)}\n\n`;
+  newContent += `Total Price (Min Order Amount): $${totalMinOrderAmountPrice.toFixed(2)}\n`;
 
   const before = content.slice(0, startIndex + startMarker.length);
   const after = content.slice(endIndex);
