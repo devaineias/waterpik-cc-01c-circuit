@@ -72,3 +72,9 @@ For the battery charger, we ditch wireless charging and instead use the MCP73831
 
 **Total Price per Specified Quantity: $13.326**
 **Total Price (Min Order Amount): $20.972**
+
+# Project Status
+Currently awaiting materials and tools needed
+
+# Project ETA 
+Early September 2024
