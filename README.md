@@ -71,7 +71,7 @@ For the battery charger, we ditch wireless charging and instead use the MCP73831
 | MAX17502FATB+T | U5 | 1 | MAX17502FATB+T | LCSC | C559500 | 1.6752 | 1.675 | 1.675 |
 | 5A Schottky Diode | - | 2 | XL-1608SURC-04 | LCSC | C7503125 | 0.0819 | 0.164 | 0.409 |
 
-Total Price per Specified Quantity: $13.326
+Total Price per Specified Quantity: $13.326\
 Total Price (Min Order Amount): $20.972
 <!-- END COMPONENTS SECTION -->
 
