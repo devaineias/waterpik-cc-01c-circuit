@@ -50,7 +50,7 @@ async function calculatePrices(component) {
   }
 
   const totalPrice = (unitPrice * component.quantity);
-  const minTotalPrice = (unitPrice * Math.max(component.quantity, minBuyNumber));
+  const minTotalPrice = (unitPrice * Math.max(component.quantity, minBuyNumber)).toFixed(4);
 
   return { unitPrice, totalPrice, minTotalPrice };
 }
