@@ -21,7 +21,7 @@ jobs:
         run: npm install
 
       - name: Run price update script
-        run: node script.js
+        run: node updatePrices.js
 
       - name: Commit and push changes
         run: |
