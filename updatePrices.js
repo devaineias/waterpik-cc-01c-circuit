@@ -56,27 +56,42 @@ async function calculatePrices(component) {
 }
 
 async function updateMarkdownFile() {
-  let existingContent = fs.readFileSync('README.md', 'utf8');
-  let updatedContent = existingContent.split('\n## Electrical components needed\n')[0];
+  const startMarker = '<!-- START COMPONENTS SECTION -->';
+  const endMarker = '<!-- END COMPONENTS SECTION -->';
+  const filePath = 'README.md';
 
-  updatedContent += '## Electrical components needed\n\n';
-  updatedContent += '| Name | Designator | Quantity | Manufacturer Part | Supplier | Supplier Part | Price per Unit (USD) | Price per Specified Quantity (USD) | Total Price (Min Order Amount) (USD) |\n';
-  updatedContent += '| --- | --- | --- | --- | --- | --- | --- | --- | --- |\n';
+  let content = fs.readFileSync(filePath, 'utf8');
+
+  const startIndex = content.indexOf(startMarker);
+  const endIndex = content.indexOf(endMarker);
+
+  if (startIndex === -1 || endIndex === -1) {
+    console.error('Could not find component section markers in README.md.');
+    return;
+  }
+
+  let newContent = '## Electrical components needed\n\n';
+  newContent += '| Name | Designator | Quantity | Manufacturer Part | Supplier | Supplier Part | Price per Unit (USD) | Price per Specified Quantity (USD) | Total Price (Min Order Amount) (USD) |\n';
+  newContent += '| --- | --- | --- | --- | --- | --- | --- | --- | --- |\n';
 
   let totalSpecifiedQuantityPrice = 0;
   let totalMinOrderAmountPrice = 0;
 
   for (const component of components) {
-    const { unitPrice, totalPrice, minTotalPrice } = await calculatePrices(component);
+    const { unitPrice, totalPrice, minTotalPrice, manufacturerPart } = await calculatePrices(component);
     totalSpecifiedQuantityPrice += parseFloat(totalPrice);
     totalMinOrderAmountPrice += parseFloat(minTotalPrice);
-    updatedContent += `| ${component.name} | ${component.designator} | ${component.quantity} | ${component.productModel} | LCSC | ${component.productCode} | ${unitPrice} | ${totalPrice} | ${minTotalPrice} |\n`;
+    newContent += `| ${component.name} | ${component.designator} | ${component.quantity} | ${manufacturerPart} | LCSC | ${component.productCode} | ${unitPrice} | ${totalPrice} | ${minTotalPrice} |\n`;
   }
 
-  updatedContent += `\n**Total Price per Specified Quantity: $${totalSpecifiedQuantityPrice.toFixed(3)}**\n`;
-  updatedContent += `**Total Price (Min Order Amount): $${totalMinOrderAmountPrice.toFixed(3)}**\n`;
+  newContent += `\nTotal Price per Specified Quantity: $${totalSpecifiedQuantityPrice.toFixed(3)}\n`;
+  newContent += `Total Price (Min Order Amount): $${totalMinOrderAmountPrice.toFixed(3)}\n`;
 
-  fs.writeFileSync('README.md', updatedContent);
+  const before = content.slice(0, startIndex + startMarker.length);
+  const after = content.slice(endIndex);
+  const updatedContent = before + '\n' + newContent + '\n' + after;
+
+  fs.writeFileSync(filePath, updatedContent);
 }
 
 updateMarkdownFile();
