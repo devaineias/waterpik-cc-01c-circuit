@@ -78,13 +78,13 @@ async function updateMarkdownFile() {
   let totalMinOrderAmountPrice = 0;
 
   for (const component of components) {
-    const { unitPrice, totalPrice, minTotalPrice, manufacturerPart } = await calculatePrices(component);
+    const { unitPrice, totalPrice, minTotalPrice } = await calculatePrices(component);
     totalSpecifiedQuantityPrice += parseFloat(totalPrice);
     totalMinOrderAmountPrice += parseFloat(minTotalPrice);
-    newContent += `| ${component.name} | ${component.designator} | ${component.quantity} | ${manufacturerPart} | LCSC | ${component.productCode} | ${unitPrice} | ${totalPrice} | ${minTotalPrice} |\n`;
+    newContent += `| ${component.name} | ${component.designator} | ${component.quantity} | ${component.productModel} | LCSC | ${component.productCode} | ${unitPrice} | ${totalPrice} | ${minTotalPrice} |\n`;
   }
 
-  newContent += `\nTotal Price per Specified Quantity: $${totalSpecifiedQuantityPrice.toFixed(3)}\n`;
+  newContent += `\nTotal Price per Specified Quantity: $${totalSpecifiedQuantityPrice.toFixed(3)}\n\n`;
   newContent += `Total Price (Min Order Amount): $${totalMinOrderAmountPrice.toFixed(3)}\n`;
 
   const before = content.slice(0, startIndex + startMarker.length);
