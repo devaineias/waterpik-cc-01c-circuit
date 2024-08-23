@@ -66,14 +66,14 @@ For the battery charger, we ditch wireless charging and instead use the MCP73831
 | 3.32MΩ Resistor | R6 | 1 | RC0402FR-073M32L | LCSC | C477691 | 0.0005 | 0.0005 | 0.0500 |
 | 866kΩ Resistor | R7 | 1 | RC0402FR-07866KL | LCSC | C137931 | 0.0004 | 0.0004 | 0.0400 |
 | IRF4905 | U1 | 1 | AUIRF4905 | LCSC | C533263 | 8.1241 | 8.1241 | 8.1241 |
-| MCP73831T-2ACI/OT | U2 | 1 | MCP73831T-2ACI/OT | LCSC | C424093 | 0.713 | 0.713 | 0.7130 |
+| MCP73831T-2ACI/OT | U2 | 1 | MCP73831T-2ACI/OT | LCSC | C424093 | 0.7031 | 0.7031 | 0.7031 |
 | 680kΩ Resistor | U3 | 1 | CR1/4W-680K±5%-RT52 | LCSC | C2896880 | 0.004 | 0.004 | 0.2000 |
 | MAX17502FATB+T | U5 | 1 | MAX17502FATB+T | LCSC | C559500 | 1.7307 | 1.7307 | 1.7307 |
-| 5A Schottky Diode | - | 2 | XL-1608SURC-04 | LCSC | C7503125 | 0.0843 | 0.1686 | 0.4215 |
+| 5A Schottky Diode | - | 2 | XL-1608SURC-04 | LCSC | C7503125 | 0.0846 | 0.1692 | 0.4230 |
 
-Total Price per Specified Quantity: $13.62
+Total Price per Specified Quantity: $13.61
 
-Total Price (Min Order Amount): $21.45
+Total Price (Min Order Amount): $21.44
 
 <!-- END COMPONENTS SECTION -->
 
