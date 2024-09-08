@@ -60,7 +60,7 @@ For the battery charger, we ditch wireless charging and instead use the MCP73831
 | LED | LED1 | 1 | XL-1608SURC-04 | LCSC | C965798 | 0.0046 | 0.0046 | 0.4600 |
 | 2N2222A | Q1, Q2 | 2 | 2N2222A | LCSC | C358533 | 0.0232 | 0.0464 | 0.4640 |
 | 2kΩ Resistor | R1 | 1 | RC0805FR-072KL | LCSC | C114572 | 0.0021 | 0.0021 | 0.2100 |
-| 100kΩ Resistor | R2, R3 | 2 | MFR50SFTE52-100K | LCSC | C173137 | 0.0195 | 0.039 | 0.9750 |
+| 100kΩ Resistor | R2, R3 | 2 | MFR50SFTE52-100K | LCSC | C173137 | 0.0196 | 0.0392 | 0.9800 |
 | 470Ω Resistor | R4 | 1 | CRCW0603470RFKEA | LCSC | C844786 | 0.0064 | 0.0064 | 0.6400 |
 | 10kΩ Resistor | R5 | 1 | RC0402FR-0710KL | LCSC | C60490 | 0.0005 | 0.0005 | 0.0500 |
 | 3.32MΩ Resistor | R6 | 1 | RC0402FR-073M32L | LCSC | C477691 | 0.0005 | 0.0005 | 0.0500 |
@@ -73,7 +73,7 @@ For the battery charger, we ditch wireless charging and instead use the MCP73831
 
 Total Price per Specified Quantity: $13.60
 
-Total Price (Min Order Amount): $21.42
+Total Price (Min Order Amount): $21.43
 
 <!-- END COMPONENTS SECTION -->
 
