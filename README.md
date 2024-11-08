@@ -52,8 +52,8 @@ For the battery charger, we ditch wireless charging and instead use the MCP73831
 | 10µF Capacitor | C1, C2 | 2 | C1206C106K4RACAUTO | LCSC | C141190 | 0.1364 | 0.2728 | 0.6820 |
 | 10µF Capacitor | C3, C4 | 2 | C1206C106K8RAC7800 | LCSC | C600021 | 0.124 | 0.248 | 0.6200 |
 | 33µF Capacitor | C5 | 1 | EEEFK1K330P | LCSC | C128461 | 0.3213 | 0.3213 | 1.6065 |
-| 2.2µF Capacitor | C6, C7 | 2 | GRM32ER72A225KA35L | LCSC | C86054 | 0.1385 | 0.277 | 0.6925 |
-| 22µF Capacitor | U4 | 1 | GRM32ER71E226ME15K | LCSC | C2167828 | 0.3395 | 0.3395 | 1.6975 |
+| 2.2µF Capacitor | C6, C7 | 2 | GRM32ER72A225KA35L | LCSC | C86054 | 0.1351 | 0.2702 | 0.6755 |
+| 22µF Capacitor | U4 | 1 | GRM32ER71E226ME15K | LCSC | C2167828 | 0.3434 | 0.3434 | 1.7170 |
 | 3.3nF Capacitor | C8 | 1 | GRM155R71H332KA01D | LCSC | C85963 | 0.0029 | 0.0029 | 0.2900 |
 | 1µF Capacitor | C9 | 1 | 06033C105KAT2A | LCSC | C597116 | 0.0365 | 0.0365 | 0.7300 |
 | 22µH Inductor | D1 | 1 | SRR1260A-220M | LCSC | C3224283 | 1.258 | 1.258 | 1.2580 |
@@ -61,7 +61,7 @@ For the battery charger, we ditch wireless charging and instead use the MCP73831
 | 2N2222A | Q1, Q2 | 2 | 2N2222A | LCSC | C358533 | 0.0232 | 0.0464 | 0.4640 |
 | 2kΩ Resistor | R1 | 1 | RC0805FR-072KL | LCSC | C114572 | 0.0021 | 0.0021 | 0.2100 |
 | 100kΩ Resistor | R2, R3 | 2 | MFR50SFTE52-100K | LCSC | C173137 | 0.0196 | 0.0392 | 0.9800 |
-| 470Ω Resistor | R4 | 1 | CRCW0603470RFKEA | LCSC | C844786 | 0.0058 | 0.0058 | 0.5800 |
+| 470Ω Resistor | R4 | 1 | CRCW0603470RFKEA | LCSC | C844786 | 0.0057 | 0.0057 | 0.5700 |
 | 10kΩ Resistor | R5 | 1 | RC0402FR-0710KL | LCSC | C60490 | 0.0005 | 0.0005 | 0.0500 |
 | 3.32MΩ Resistor | R6 | 1 | RC0402FR-073M32L | LCSC | C477691 | 0.0008 | 0.0008 | 0.0800 |
 | 866kΩ Resistor | R7 | 1 | RC0402FR-07866KL | LCSC | C137931 | 0.0004 | 0.0004 | 0.0400 |
@@ -73,7 +73,7 @@ For the battery charger, we ditch wireless charging and instead use the MCP73831
 
 Total Price per Specified Quantity: $13.69
 
-Total Price (Min Order Amount): $21.74
+Total Price (Min Order Amount): $21.73
 
 <!-- END COMPONENTS SECTION -->
 
