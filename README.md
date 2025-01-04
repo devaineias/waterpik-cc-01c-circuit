@@ -56,7 +56,7 @@ For the battery charger, we ditch wireless charging and instead use the MCP73831
 | 22µF Capacitor | U4 | 1 | GRM32ER71E226ME15K | LCSC | C2167828 | 0.3434 | 0.3434 | 1.7170 |
 | 3.3nF Capacitor | C8 | 1 | GRM155R71H332KA01D | LCSC | C85963 | 0.0028 | 0.0028 | 0.2800 |
 | 1µF Capacitor | C9 | 1 | 06033C105KAT2A | LCSC | C597116 | 0.035 | 0.035 | 0.7000 |
-| 22µH Inductor | D1 | 1 | SRR1260A-220M | LCSC | C3224283 | 1.258 | 1.258 | 1.2580 |
+| 22µH Inductor | D1 | 1 | SRR1260A-220M | LCSC | C3224283 | 1.0726 | 1.0726 | 1.0726 |
 | LED | LED1 | 1 | XL-1608SURC-04 | LCSC | C965798 | 0.0045 | 0.0045 | 0.4500 |
 | 2N2222A | Q1, Q2 | 2 | 2N2222A | LCSC | C358533 | 0.0229 | 0.0458 | 0.4580 |
 | 2kΩ Resistor | R1 | 1 | RC0805FR-072KL | LCSC | C114572 | 0.002 | 0.002 | 0.2000 |
@@ -71,9 +71,9 @@ For the battery charger, we ditch wireless charging and instead use the MCP73831
 | MAX17502FATB+T | U5 | 1 | MAX17502FATB+T | LCSC | C559500 | 1.6675 | 1.6675 | 1.6675 |
 | 5A Schottky Diode | - | 2 | XL-1608SURC-04 | LCSC | C7503125 | 0.0833 | 0.1666 | 0.4165 |
 
-Total Price per Specified Quantity: $13.61
+Total Price per Specified Quantity: $13.43
 
-Total Price (Min Order Amount): $21.23
+Total Price (Min Order Amount): $21.05
 
 <!-- END COMPONENTS SECTION -->
 
