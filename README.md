@@ -51,7 +51,7 @@ For the battery charger, we ditch wireless charging and instead use the MCP73831
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 10µF Capacitor | C1, C2 | 2 | C1206C106K4RACAUTO | LCSC | C141190 | 0.1288 | 0.2576 | 0.6440 |
 | 10µF Capacitor | C3, C4 | 2 | C1206C106K8RAC7800 | LCSC | C600021 | 0.138 | 0.276 | 0.6900 |
-| 33µF Capacitor | C5 | 1 | EEEFK1K330P | LCSC | C128461 | 0.3374 | 0.3374 | 1.6870 |
+| 33µF Capacitor | C5 | 1 | EEEFK1K330P | LCSC | C128461 | 0.3381 | 0.3381 | 1.6905 |
 | 2.2µF Capacitor | C6, C7 | 2 | GRM32ER72A225KA35L | LCSC | C86054 | 0.1491 | 0.2982 | 0.7455 |
 | 22µF Capacitor | U4 | 1 | GRM32ER71E226ME15K | LCSC | C2167828 | 0.3702 | 0.3702 | 1.8510 |
 | 3.3nF Capacitor | C8 | 1 | GRM155R71H332KA01D | LCSC | C85963 | 0.0031 | 0.0031 | 0.3100 |
