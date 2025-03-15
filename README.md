@@ -55,10 +55,10 @@ For the battery charger, we ditch wireless charging and instead use the MCP73831
 | 2.2µF Capacitor | C6, C7 | 2 | GRM32ER72A225KA35L | LCSC | C86054 | 0.1491 | 0.2982 | 0.7455 |
 | 22µF Capacitor | U4 | 1 | GRM32ER71E226ME15K | LCSC | C2167828 | 0.3702 | 0.3702 | 1.8510 |
 | 3.3nF Capacitor | C8 | 1 | GRM155R71H332KA01D | LCSC | C85963 | 0.0034 | 0.0034 | 0.3400 |
-| 1µF Capacitor | C9 | 1 | 06033C105KAT2A | LCSC | C597116 | 0.0383 | 0.0383 | 0.7660 |
+| 1µF Capacitor | C9 | 1 | 06033C105KAT2A | LCSC | C597116 | 0.0385 | 0.0385 | 0.7700 |
 | 22µH Inductor | D1 | 1 | SRR1260A-220M | LCSC | C3224283 | 1.1992 | 1.1992 | 1.1992 |
 | LED | LED1 | 1 | XL-1608SURC-04 | LCSC | C965798 | 0.0051 | 0.0051 | 0.5100 |
-| 2N2222A | Q1, Q2 | 2 | 2N2222A | LCSC | C358533 | 0.0264 | 0.0528 | 0.5280 |
+| 2N2222A | Q1, Q2 | 2 | 2N2222A | LCSC | C358533 | 0.0263 | 0.0526 | 0.5260 |
 | 2kΩ Resistor | R1 | 1 | RC0805FR-072KL | LCSC | C114572 | 0.0021 | 0.0021 | 0.2100 |
 | 100kΩ Resistor | R2, R3 | 2 | MFR50SFTE52-100K | LCSC | C173137 | 0.0203 | 0.0406 | 1.0150 |
 | 470Ω Resistor | R4 | 1 | CRCW0603470RFKEA | LCSC | C844786 | 0.0048 | 0.0048 | 0.4800 |
@@ -73,7 +73,7 @@ For the battery charger, we ditch wireless charging and instead use the MCP73831
 
 Total Price per Specified Quantity: $13.97
 
-Total Price (Min Order Amount): $22.44
+Total Price (Min Order Amount): $22.45
 
 <!-- END COMPONENTS SECTION -->
 
