@@ -56,7 +56,7 @@ For the battery charger, we ditch wireless charging and instead use the MCP73831
 | 22µF Capacitor | U4 | 1 | GRM32ER71E226ME15K | LCSC | C2167828 | 0.3702 | 0.3702 | 1.8510 |
 | 3.3nF Capacitor | C8 | 1 | GRM155R71H332KA01D | LCSC | C85963 | 0.0029 | 0.0029 | 0.2900 |
 | 1µF Capacitor | C9 | 1 | 06033C105KAT2A | LCSC | C597116 | N/A | N/A | N/A |
-| 22µH Inductor | D1 | 1 | SRR1260A-220M | LCSC | C3224283 | 1.1018 | 1.1018 | 1.1018 |
+| 22µH Inductor | D1 | 1 | SRR1260A-220M | LCSC | C3224283 | 1.0694 | 1.0694 | 1.0694 |
 | LED | LED1 | 1 | XL-1608SURC-04 | LCSC | C965798 | 0.0048 | 0.0048 | 0.4800 |
 | 2N2222A | Q1, Q2 | 2 | 2N2222A | LCSC | C358533 | 0.0264 | 0.0528 | 0.5280 |
 | 2kΩ Resistor | R1 | 1 | RC0805FR-072KL | LCSC | C114572 | 0.0021 | 0.0021 | 0.2100 |
