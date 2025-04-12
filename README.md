@@ -49,31 +49,31 @@ For the battery charger, we ditch wireless charging and instead use the MCP73831
 
 | Name | Designator | Quantity | Manufacturer Part | Supplier | Supplier Part | Price per Unit (USD) | Price per Specified Quantity (USD) | Total Price (Min Order Amount) (USD) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 10µF Capacitor | C1, C2 | 2 | C1206C106K4RACAUTO | LCSC | C141190 | 0.1288 | 0.2576 | 0.6440 |
-| 10µF Capacitor | C3, C4 | 2 | C1206C106K8RAC7800 | LCSC | C600021 | 0.1452 | 0.2904 | 0.7260 |
-| 33µF Capacitor | C5 | 1 | EEEFK1K330P | LCSC | C128461 | 0.3381 | 0.3381 | 1.6905 |
-| 2.2µF Capacitor | C6, C7 | 2 | GRM32ER72A225KA35L | LCSC | C86054 | 0.1499 | 0.2998 | 0.7495 |
-| 22µF Capacitor | U4 | 1 | GRM32ER71E226ME15K | LCSC | C2167828 | 0.3702 | 0.3702 | 1.8510 |
+| 10µF Capacitor | C1, C2 | 2 | C1206C106K4RACAUTO | LCSC | C141190 | 0.1307 | 0.2614 | 0.6535 |
+| 10µF Capacitor | C3, C4 | 2 | C1206C106K8RAC7800 | LCSC | C600021 | 0.1435 | 0.287 | 0.7175 |
+| 33µF Capacitor | C5 | 1 | EEEFK1K330P | LCSC | C128461 | 0.3372 | 0.3372 | 1.6860 |
+| 2.2µF Capacitor | C6, C7 | 2 | GRM32ER72A225KA35L | LCSC | C86054 | 0.1481 | 0.2962 | 0.7405 |
+| 22µF Capacitor | U4 | 1 | GRM32ER71E226ME15K | LCSC | C2167828 | 0.3621 | 0.3621 | 1.8105 |
 | 3.3nF Capacitor | C8 | 1 | GRM155R71H332KA01D | LCSC | C85963 | 0.0029 | 0.0029 | 0.2900 |
-| 1µF Capacitor | C9 | 1 | 06033C105KAT2A | LCSC | C597116 | 0.0207 | 0.0207 | 1.0350 |
-| 22µH Inductor | D1 | 1 | SRR1260A-220M | LCSC | C3224283 | 1.0656 | 1.0656 | 1.0656 |
-| LED | LED1 | 1 | XL-1608SURC-04 | LCSC | C965798 | 0.0048 | 0.0048 | 0.4800 |
-| 2N2222A | Q1, Q2 | 2 | 2N2222A | LCSC | C358533 | 0.0264 | 0.0528 | 0.5280 |
+| 1µF Capacitor | C9 | 1 | 06033C105KAT2A | LCSC | C597116 | 0.0204 | 0.0204 | 1.0200 |
+| 22µH Inductor | D1 | 1 | SRR1260A-220M | LCSC | C3224283 | 1.1074 | 1.1074 | 1.1074 |
+| LED | LED1 | 1 | XL-1608SURC-04 | LCSC | C965798 | 0.0047 | 0.0047 | 0.4700 |
+| 2N2222A | Q1, Q2 | 2 | 2N2222A | LCSC | C358533 | 0.0257 | 0.0514 | 0.5140 |
 | 2kΩ Resistor | R1 | 1 | RC0805FR-072KL | LCSC | C114572 | 0.0021 | 0.0021 | 0.2100 |
-| 100kΩ Resistor | R2, R3 | 2 | MFR50SFTE52-100K | LCSC | C173137 | 0.0203 | 0.0406 | 1.0150 |
-| 470Ω Resistor | R4 | 1 | CRCW0603470RFKEA | LCSC | C844786 | 0.0054 | 0.0054 | 0.5400 |
+| 100kΩ Resistor | R2, R3 | 2 | MFR50SFTE52-100K | LCSC | C173137 | 0.0198 | 0.0396 | 0.9900 |
+| 470Ω Resistor | R4 | 1 | CRCW0603470RFKEA | LCSC | C844786 | 0.0053 | 0.0053 | 0.5300 |
 | 10kΩ Resistor | R5 | 1 | RC0402FR-0710KL | LCSC | C60490 | 0.0006 | 0.0006 | 0.0600 |
-| 3.32MΩ Resistor | R6 | 1 | RC0402FR-073M32L | LCSC | C477691 | 0.0008 | 0.0008 | 0.0800 |
-| 866kΩ Resistor | R7 | 1 | RC0402FR-07866KL | LCSC | C137931 | 0.0007 | 0.0007 | 0.0700 |
-| IRF4905 | U1 | 1 | AUIRF4905 | LCSC | C533263 | 7.9257 | 7.9257 | 7.9257 |
-| MCP73831T-2ACI/OT | U2 | 1 | MCP73831T-2ACI/OT | LCSC | C424093 | 0.8067 | 0.8067 | 0.8067 |
+| 3.32MΩ Resistor | R6 | 1 | RC0402FR-073M32L | LCSC | C477691 | 0.0007 | 0.0007 | 0.0700 |
+| 866kΩ Resistor | R7 | 1 | RC0402FR-07866KL | LCSC | C137931 | 0.0004 | 0.0004 | 0.0400 |
+| IRF4905 | U1 | 1 | AUIRF4905 | LCSC | C533263 | 7.1105 | 7.1105 | 7.1105 |
+| MCP73831T-2ACI/OT | U2 | 1 | MCP73831T-2ACI/OT | LCSC | C424093 | 0.9732 | 0.9732 | 0.9732 |
 | 680kΩ Resistor | U3 | 1 | CR1/4W-680K±5%-RT52 | LCSC | C2896880 | 0.0042 | 0.0042 | 0.2100 |
-| MAX17502FATB+T | U5 | 1 | MAX17502FATB+T | LCSC | C559500 | 1.8214 | 1.8214 | 1.8214 |
+| MAX17502FATB+T | U5 | 1 | MAX17502FATB+T | LCSC | C559500 | 2.159 | 2.159 | 2.1590 |
 | 5A Schottky Diode | - | 2 | XL-1608SURC-04 | LCSC | C7503125 | 0.0932 | 0.1864 | 0.4660 |
 
-Total Price per Specified Quantity: $13.50
+Total Price per Specified Quantity: $13.21
 
-Total Price (Min Order Amount): $22.26
+Total Price (Min Order Amount): $21.83
 
 <!-- END COMPONENTS SECTION -->
 
