@@ -58,7 +58,7 @@ For the battery charger, we ditch wireless charging and instead use the MCP73831
 | 1µF Capacitor | C9 | 1 | 06033C105KAT2A | LCSC | C597116 | 0.0204 | 0.0204 | 1.0200 |
 | 22µH Inductor | D1 | 1 | SRR1260A-220M | LCSC | C3224283 | 0.8716 | 0.8716 | 0.8716 |
 | LED | LED1 | 1 | XL-1608SURC-04 | LCSC | C965798 | 0.0047 | 0.0047 | 0.4700 |
-| 2N2222A | Q1, Q2 | 2 | 2N2222A | LCSC | C358533 | 0.0281 | 0.0562 | 0.5620 |
+| 2N2222A | Q1, Q2 | 2 | 2N2222A | LCSC | C358533 | 0.0284 | 0.0568 | 0.5680 |
 | 2kΩ Resistor | R1 | 1 | RC0805FR-072KL | LCSC | C114572 | 0.0021 | 0.0021 | 0.2100 |
 | 100kΩ Resistor | R2, R3 | 2 | MFR50SFTE52-100K | LCSC | C173137 | 0.0192 | 0.0384 | 0.9600 |
 | 470Ω Resistor | R4 | 1 | CRCW0603470RFKEA | LCSC | C844786 | 0.0053 | 0.0053 | 0.5300 |
@@ -73,7 +73,7 @@ For the battery charger, we ditch wireless charging and instead use the MCP73831
 
 Total Price per Specified Quantity: $13.44
 
-Total Price (Min Order Amount): $20.65
+Total Price (Min Order Amount): $20.66
 
 <!-- END COMPONENTS SECTION -->
 
