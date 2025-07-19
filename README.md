@@ -78,7 +78,7 @@ Total Price (Min Order Amount): $20.78
 <!-- END COMPONENTS SECTION -->
 
 # Project Status
-Currently awaiting materials and tools needed
+Redesigning new circuit board
 
 # Project ETA 
-Early September 2024
+Late November 2025
