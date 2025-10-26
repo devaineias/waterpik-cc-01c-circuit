@@ -49,14 +49,14 @@ For the battery charger, we ditch wireless charging and instead use the MCP73831
 
 | Name | Designator | Quantity | Manufacturer Part | Supplier | Supplier Part | Price per Unit (USD) | Price per Specified Quantity (USD) | Total Price (Min Order Amount) (USD) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 10µF Capacitor | C1, C2 | 2 | C1206C106K4RACAUTO | LCSC | C141190 | 0.1134 | 0.2268 | 0.5670 |
-| 10µF Capacitor | C3, C4 | 2 | C1206C106K8RAC7800 | LCSC | C600021 | 0.1299 | 0.2598 | 0.6495 |
+| 10µF Capacitor | C1, C2 | 2 | C1206C106K4RACAUTO | LCSC | C141190 | 0.1118 | 0.2236 | 0.5590 |
+| 10µF Capacitor | C3, C4 | 2 | C1206C106K8RAC7800 | LCSC | C600021 | 0.1314 | 0.2628 | 0.6570 |
 | 33µF Capacitor | C5 | 1 | EEEFK1K330P | LCSC | C128461 | 0.3352 | 0.3352 | 1.6760 |
 | 2.2µF Capacitor | C6, C7 | 2 | GRM32ER72A225KA35L | LCSC | C86054 | 0.116 | 0.232 | 0.5800 |
 | 22µF Capacitor | U4 | 1 | GRM32ER71E226ME15K | LCSC | C2167828 | 0.3502 | 0.3502 | 1.7510 |
 | 3.3nF Capacitor | C8 | 1 | GRM155R71H332KA01D | LCSC | C85963 | 0.0028 | 0.0028 | 0.2800 |
 | 1µF Capacitor | C9 | 1 | 06033C105KAT2A | LCSC | C597116 | 0.0202 | 0.0202 | 1.0100 |
-| 22µH Inductor | D1 | 1 | SRR1260A-220M | LCSC | C3224283 | 0.8671 | 0.8671 | 0.8671 |
+| 22µH Inductor | D1 | 1 | SRR1260A-220M | LCSC | C3224283 | 0.9727 | 0.9727 | 0.9727 |
 | LED | LED1 | 1 | XL-1608SURC-04 | LCSC | C965798 | 0.0049 | 0.0049 | 0.4900 |
 | 2N2222A | Q1, Q2 | 2 | 2N2222A | LCSC | C358533 | 0.0283 | 0.0566 | 0.5660 |
 | 2kΩ Resistor | R1 | 1 | RC0805FR-072KL | LCSC | C114572 | 0.0021 | 0.0021 | 0.2100 |
@@ -71,9 +71,9 @@ For the battery charger, we ditch wireless charging and instead use the MCP73831
 | MAX17502FATB+T | U5 | 1 | MAX17502FATB+T | LCSC | C559500 | 1.853 | 1.853 | 1.8530 |
 | 5A Schottky Diode | - | 2 | XL-1608SURC-04 | LCSC | C7503125 | 0.0926 | 0.1852 | 0.4630 |
 
-Total Price per Specified Quantity: $13.55
+Total Price per Specified Quantity: $13.66
 
-Total Price (Min Order Amount): $21.71
+Total Price (Min Order Amount): $21.81
 
 <!-- END COMPONENTS SECTION -->
 
