@@ -68,12 +68,12 @@ For the battery charger, we ditch wireless charging and instead use the MCP73831
 | IRF4905 | U1 | 1 | AUIRF4905 | LCSC | C533263 | 7.9385 | 7.9385 | 7.9385 |
 | MCP73831T-2ACI/OT | U2 | 1 | MCP73831T-2ACI/OT | LCSC | C424093 | 0.7747 | 0.7747 | 0.7747 |
 | 680kΩ Resistor | U3 | 1 | CR1/4W-680K±5%-RT52 | LCSC | C2896880 | 0.0042 | 0.0042 | 0.0042 |
-| MAX17502FATB+T | U5 | 1 | MAX17502FATB+T | LCSC | C559500 | 1.9064 | 1.9064 | 1.9064 |
+| MAX17502FATB+T | U5 | 1 | MAX17502FATB+T | LCSC | C559500 | 1.9481 | 1.9481 | 1.9481 |
 | 5A Schottky Diode | - | 2 | XL-1608SURC-04 | LCSC | C7503125 | 0.0937 | 0.1874 | 0.4685 |
 
-Total Price per Specified Quantity: $13.44
+Total Price per Specified Quantity: $13.49
 
-Total Price (Min Order Amount): $21.06
+Total Price (Min Order Amount): $21.11
 
 <!-- END COMPONENTS SECTION -->
 
