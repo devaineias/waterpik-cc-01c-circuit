@@ -59,7 +59,7 @@ For the battery charger, we ditch wireless charging and instead use the MCP73831
 | 22µH Inductor | D1 | 1 | SRR1260A-220M | LCSC | C3224283 | 0.978 | 0.978 | 0.9780 |
 | LED | LED1 | 1 | XL-1608SURC-04 | LCSC | C965798 | 0.0054 | 0.0054 | 0.5400 |
 | 2N2222A | Q1, Q2 | 2 | 2N2222A | LCSC | C358533 | 0.0291 | 0.0582 | 0.5820 |
-| 2kΩ Resistor | R1 | 1 | RC0805FR-072KL | LCSC | C114572 | 0.0022 | 0.0022 | 0.2200 |
+| 2kΩ Resistor | R1 | 1 | RC0805FR-072KL | LCSC | C114572 | 0.0024 | 0.0024 | 0.2400 |
 | 100kΩ Resistor | R2, R3 | 2 | MFR50SFTE52-100K | LCSC | C173137 | 0.0195 | 0.039 | 0.9750 |
 | 470Ω Resistor | R4 | 1 | CRCW0603470RFKEA | LCSC | C844786 | 0.005 | 0.005 | 0.5000 |
 | 10kΩ Resistor | R5 | 1 | RC0402FR-0710KL | LCSC | C60490 | 0.0006 | 0.0006 | 0.0600 |
@@ -69,11 +69,11 @@ For the battery charger, we ditch wireless charging and instead use the MCP73831
 | MCP73831T-2ACI/OT | U2 | 1 | MCP73831T-2ACI/OT | LCSC | C424093 | 0.7747 | 0.7747 | 0.7747 |
 | 680kΩ Resistor | U3 | 1 | CR1/4W-680K±5%-RT52 | LCSC | C2896880 | 0.0042 | 0.0042 | 0.0042 |
 | MAX17502FATB+T | U5 | 1 | MAX17502FATB+T | LCSC | C559500 | 1.9782 | 1.9782 | 1.9782 |
-| 5A Schottky Diode | - | 2 | XL-1608SURC-04 | LCSC | C7503125 | 0.0937 | 0.1874 | 0.4685 |
+| 5A Schottky Diode | - | 2 | XL-1608SURC-04 | LCSC | C7503125 | 0.0948 | 0.1896 | 0.4740 |
 
 Total Price per Specified Quantity: $13.52
 
-Total Price (Min Order Amount): $21.15
+Total Price (Min Order Amount): $21.17
 
 <!-- END COMPONENTS SECTION -->
 
