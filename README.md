@@ -55,7 +55,7 @@ For the battery charger, we ditch wireless charging and instead use the MCP73831
 | 2.2µF Capacitor | C6, C7 | 2 | GRM32ER72A225KA35L | LCSC | C86054 | 0.1596 | 0.3192 | 0.7980 |
 | 22µF Capacitor | U4 | 1 | GRM32ER71E226ME15K | LCSC | C2167828 | 0.3772 | 0.3772 | 1.8860 |
 | 3.3nF Capacitor | C8 | 1 | GRM155R71H332KA01D | LCSC | C85963 | 0.0031 | 0.0031 | 0.3100 |
-| 1µF Capacitor | C9 | 1 | 06033C105KAT2A | LCSC | C597116 | 0.0221 | 0.0221 | 0.2210 |
+| 1µF Capacitor | C9 | 1 | 06033C105KAT2A | LCSC | C597116 | 0.0209 | 0.0209 | 0.2090 |
 | 22µH Inductor | D1 | 1 | SRR1260A-220M | LCSC | C3224283 | 1.2106 | 1.2106 | 1.2106 |
 | LED | LED1 | 1 | XL-1608SURC-04 | LCSC | C965798 | 0.0058 | 0.0058 | 0.5800 |
 | 2N2222A | Q1, Q2 | 2 | 2N2222A | LCSC | C358533 | 0.0296 | 0.0592 | 0.5920 |
@@ -73,7 +73,7 @@ For the battery charger, we ditch wireless charging and instead use the MCP73831
 
 Total Price per Specified Quantity: $14.00
 
-Total Price (Min Order Amount): $22.00
+Total Price (Min Order Amount): $21.98
 
 <!-- END COMPONENTS SECTION -->
 
