@@ -50,7 +50,7 @@ For the battery charger, we ditch wireless charging and instead use the MCP73831
 | Name | Designator | Quantity | Manufacturer Part | Supplier | Supplier Part | Price per Unit (USD) | Price per Specified Quantity (USD) | Total Price (Min Order Amount) (USD) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 10µF Capacitor | C1, C2 | 2 | C1206C106K4RACAUTO | LCSC | C141190 | 0.1253 | 0.2506 | 0.6265 |
-| 10µF Capacitor | C3, C4 | 2 | C1206C106K8RAC7800 | LCSC | C600021 | 0.1341 | 0.2682 | 0.6705 |
+| 10µF Capacitor | C3, C4 | 2 | C1206C106K8RAC7800 | LCSC | C600021 | 0.1344 | 0.2688 | 0.6720 |
 | 33µF Capacitor | C5 | 1 | EEEFK1K330P | LCSC | C128461 | 0.1896 | 0.1896 | 0.9480 |
 | 2.2µF Capacitor | C6, C7 | 2 | GRM32ER72A225KA35L | LCSC | C86054 | 0.1758 | 0.3516 | 0.8790 |
 | 22µF Capacitor | U4 | 1 | GRM32ER71E226ME15K | LCSC | C2167828 | 0.3772 | 0.3772 | 1.8860 |
@@ -73,7 +73,7 @@ For the battery charger, we ditch wireless charging and instead use the MCP73831
 
 Total Price per Specified Quantity: $14.00
 
-Total Price (Min Order Amount): $21.42
+Total Price (Min Order Amount): $21.43
 
 <!-- END COMPONENTS SECTION -->
 
