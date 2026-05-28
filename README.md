@@ -52,14 +52,14 @@ For the battery charger, we ditch wireless charging and instead use the MCP73831
 | 10µF Capacitor | C1, C2 | 2 | C1206C106K4RACAUTO | LCSC | C141190 | 0.1253 | 0.2506 | 0.6265 |
 | 10µF Capacitor | C3, C4 | 2 | C1206C106K8RAC7800 | LCSC | C600021 | 0.135 | 0.27 | 0.6750 |
 | 33µF Capacitor | C5 | 1 | EEEFK1K330P | LCSC | C128461 | 0.1896 | 0.1896 | 0.9480 |
-| 2.2µF Capacitor | C6, C7 | 2 | GRM32ER72A225KA35L | LCSC | C86054 | 0.1856 | 0.3712 | 0.9280 |
+| 2.2µF Capacitor | C6, C7 | 2 | GRM32ER72A225KA35L | LCSC | C86054 | 0.2231 | 0.4462 | 1.1155 |
 | 22µF Capacitor | U4 | 1 | GRM32ER71E226ME15K | LCSC | C2167828 | 0.3772 | 0.3772 | 1.8860 |
-| 3.3nF Capacitor | C8 | 1 | GRM155R71H332KA01D | LCSC | C85963 | 0.003 | 0.003 | 0.3000 |
+| 3.3nF Capacitor | C8 | 1 | GRM155R71H332KA01D | LCSC | C85963 | 0.0036 | 0.0036 | 0.3600 |
 | 1µF Capacitor | C9 | 1 | 06033C105KAT2A | LCSC | C597116 | 0.0198 | 0.0198 | 0.1980 |
 | 22µH Inductor | D1 | 1 | SRR1260A-220M | LCSC | C3224283 | 0.9432 | 0.9432 | 0.9432 |
-| LED | LED1 | 1 | XL-1608SURC-04 | LCSC | C965798 | 0.0059 | 0.0059 | 0.5900 |
+| LED | LED1 | 1 | XL-1608SURC-04 | LCSC | C965798 | 0.0056 | 0.0056 | 0.5600 |
 | 2N2222A | Q1, Q2 | 2 | 2N2222A | LCSC | C358533 | 0.0296 | 0.0592 | 0.5920 |
-| 2kΩ Resistor | R1 | 1 | RC0805FR-072KL | LCSC | C114572 | 0.0028 | 0.0028 | 0.2800 |
+| 2kΩ Resistor | R1 | 1 | RC0805FR-072KL | LCSC | C114572 | 0.0029 | 0.0029 | 0.2900 |
 | 100kΩ Resistor | R2, R3 | 2 | MFR50SFTE52-100K | LCSC | C173137 | 0.0209 | 0.0418 | 1.0450 |
 | 470Ω Resistor | R4 | 1 | CRCW0603470RFKEA | LCSC | C844786 | 0.0036 | 0.0036 | 0.3600 |
 | 10kΩ Resistor | R5 | 1 | RC0402FR-0710KL | LCSC | C60490 | 0.0009 | 0.0009 | 0.0900 |
@@ -71,9 +71,9 @@ For the battery charger, we ditch wireless charging and instead use the MCP73831
 | MAX17502FATB+T | U5 | 1 | MAX17502FATB+T | LCSC | C559500 | 2.5846 | 2.5846 | 2.5846 |
 | 5A Schottky Diode | - | 2 | XL-1608SURC-04 | LCSC | C7503125 | 0.0974 | 0.1948 | 0.4870 |
 
-Total Price per Specified Quantity: $14.03
+Total Price per Specified Quantity: $14.11
 
-Total Price (Min Order Amount): $21.81
+Total Price (Min Order Amount): $22.04
 
 <!-- END COMPONENTS SECTION -->
 
