@@ -51,7 +51,7 @@ For the battery charger, we ditch wireless charging and instead use the MCP73831
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 10µF Capacitor | C1, C2 | 2 | C1206C106K4RACAUTO | LCSC | C141190 | 0.1298 | 0.2596 | 0.6490 |
 | 10µF Capacitor | C3, C4 | 2 | C1206C106K8RAC7800 | LCSC | C600021 | 0.135 | 0.27 | 0.6750 |
-| 33µF Capacitor | C5 | 1 | EEEFK1K330P | LCSC | C128461 | 0.3555 | 0.3555 | 1.7775 |
+| 33µF Capacitor | C5 | 1 | EEEFK1K330P | LCSC | C128461 | 0.3791 | 0.3791 | 1.8955 |
 | 2.2µF Capacitor | C6, C7 | 2 | GRM32ER72A225KA35L | LCSC | C86054 | 0.3045 | 0.609 | 1.5225 |
 | 22µF Capacitor | U4 | 1 | GRM32ER71E226ME15K | LCSC | C2167828 | 0.423 | 0.423 | 2.1150 |
 | 3.3nF Capacitor | C8 | 1 | GRM155R71H332KA01D | LCSC | C85963 | 0.0052 | 0.0052 | 0.5200 |
@@ -71,9 +71,9 @@ For the battery charger, we ditch wireless charging and instead use the MCP73831
 | MAX17502FATB+T | U5 | 1 | MAX17502FATB+T | LCSC | C559500 | 2.2996 | 2.2996 | 2.2996 |
 | 5A Schottky Diode | - | 2 | XL-1608SURC-04 | LCSC | C7503125 | 0.0982 | 0.1964 | 0.4910 |
 
-Total Price per Specified Quantity: $14.25
+Total Price per Specified Quantity: $14.28
 
-Total Price (Min Order Amount): $23.71
+Total Price (Min Order Amount): $23.83
 
 <!-- END COMPONENTS SECTION -->
 
