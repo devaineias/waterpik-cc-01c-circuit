@@ -55,25 +55,25 @@ For the battery charger, we ditch wireless charging and instead use the MCP73831
 | 2.2µF Capacitor | C6, C7 | 2 | GRM32ER72A225KA35L | LCSC | C86054 | 0.3032 | 0.6064 | 1.5160 |
 | 22µF Capacitor | U4 | 1 | GRM32ER71E226ME15K | LCSC | C2167828 | 0.423 | 0.423 | 2.1150 |
 | 3.3nF Capacitor | C8 | 1 | GRM155R71H332KA01D | LCSC | C85963 | 0.0054 | 0.0054 | 0.5400 |
-| 1µF Capacitor | C9 | 1 | 06033C105KAT2A | LCSC | C597116 | 0.0198 | 0.0198 | 0.1980 |
+| 1µF Capacitor | C9 | 1 | 06033C105KAT2A | LCSC | C597116 | 0.0188 | 0.0188 | 0.1880 |
 | 22µH Inductor | D1 | 1 | SRR1260A-220M | LCSC | C3224283 | 0.9383 | 0.9383 | 0.9383 |
-| LED | LED1 | 1 | XL-1608SURC-04 | LCSC | C965798 | 0.0058 | 0.0058 | 0.5800 |
+| LED | LED1 | 1 | XL-1608SURC-04 | LCSC | C965798 | 0.0056 | 0.0056 | 0.5600 |
 | 2N2222A | Q1, Q2 | 2 | 2N2222A | LCSC | C358533 | 0.0336 | 0.0672 | 0.6720 |
 | 2kΩ Resistor | R1 | 1 | RC0805FR-072KL | LCSC | C114572 | 0.0043 | 0.0043 | 0.4300 |
 | 100kΩ Resistor | R2, R3 | 2 | MFR50SFTE52-100K | LCSC | C173137 | 0.0245 | 0.049 | 0.4900 |
 | 470Ω Resistor | R4 | 1 | CRCW0603470RFKEA | LCSC | C844786 | 0.0056 | 0.0056 | 0.5600 |
-| 10kΩ Resistor | R5 | 1 | RC0402FR-0710KL | LCSC | C60490 | 0.004 | 0.004 | 0.4000 |
+| 10kΩ Resistor | R5 | 1 | RC0402FR-0710KL | LCSC | C60490 | 0.0059 | 0.0059 | 0.5900 |
 | 3.32MΩ Resistor | R6 | 1 | RC0402FR-073M32L | LCSC | C477691 | 0.0016 | 0.0016 | 0.1600 |
 | 866kΩ Resistor | R7 | 1 | RC0402FR-07866KL | LCSC | C137931 | 0.001 | 0.001 | 0.1000 |
 | IRF4905 | U1 | 1 | AUIRF4905 | LCSC | C533263 | 7.9385 | 7.9385 | 7.9385 |
 | MCP73831T-2ACI/OT | U2 | 1 | MCP73831T-2ACI/OT | LCSC | C424093 | 0.8549 | 0.8549 | 0.8549 |
-| 680kΩ Resistor | U3 | 1 | CR1/4W-680K±5%-RT52 | LCSC | C2896880 | 0.0046 | 0.0046 | 0.4600 |
+| 680kΩ Resistor | U3 | 1 | CR1/4W-680K±5%-RT52 | LCSC | C2896880 | 0.0048 | 0.0048 | 0.4800 |
 | MAX17502FATB+T | U5 | 1 | MAX17502FATB+T | LCSC | C559500 | 2.2996 | 2.2996 | 2.2996 |
 | 5A Schottky Diode | - | 2 | XL-1608SURC-04 | LCSC | C7503125 | 0.1046 | 0.2092 | 0.5230 |
 
 Total Price per Specified Quantity: $14.37
 
-Total Price (Min Order Amount): $24.04
+Total Price (Min Order Amount): $24.22
 
 <!-- END COMPONENTS SECTION -->
 
