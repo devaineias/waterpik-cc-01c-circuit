@@ -49,7 +49,7 @@ For the battery charger, we ditch wireless charging and instead use the MCP73831
 
 | Name | Designator | Quantity | Manufacturer Part | Supplier | Supplier Part | Price per Unit (USD) | Price per Specified Quantity (USD) | Total Price (Min Order Amount) (USD) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 10µF Capacitor | C1, C2 | 2 | C1206C106K4RACAUTO | LCSC | C141190 | 0.1293 | 0.2586 | 0.6465 |
+| 10µF Capacitor | C1, C2 | 2 | C1206C106K4RACAUTO | LCSC | C141190 | 0.1296 | 0.2592 | 0.6480 |
 | 10µF Capacitor | C3, C4 | 2 | C1206C106K8RAC7800 | LCSC | C600021 | 0.147 | 0.294 | 0.7350 |
 | 33µF Capacitor | C5 | 1 | EEEFK1K330P | LCSC | C128461 | 0.3773 | 0.3773 | 1.8865 |
 | 2.2µF Capacitor | C6, C7 | 2 | GRM32ER72A225KA35L | LCSC | C86054 | 0.3032 | 0.6064 | 1.5160 |
@@ -57,9 +57,9 @@ For the battery charger, we ditch wireless charging and instead use the MCP73831
 | 3.3nF Capacitor | C8 | 1 | GRM155R71H332KA01D | LCSC | C85963 | 0.0054 | 0.0054 | 0.5400 |
 | 1µF Capacitor | C9 | 1 | 06033C105KAT2A | LCSC | C597116 | 0.0188 | 0.0188 | 0.1880 |
 | 22µH Inductor | D1 | 1 | SRR1260A-220M | LCSC | C3224283 | 0.9383 | 0.9383 | 0.9383 |
-| LED | LED1 | 1 | XL-1608SURC-04 | LCSC | C965798 | 0.0056 | 0.0056 | 0.5600 |
+| LED | LED1 | 1 | XL-1608SURC-04 | LCSC | C965798 | 0.0057 | 0.0057 | 0.5700 |
 | 2N2222A | Q1, Q2 | 2 | 2N2222A | LCSC | C358533 | 0.0336 | 0.0672 | 0.6720 |
-| 2kΩ Resistor | R1 | 1 | RC0805FR-072KL | LCSC | C114572 | 0.0043 | 0.0043 | 0.4300 |
+| 2kΩ Resistor | R1 | 1 | RC0805FR-072KL | LCSC | C114572 | 0.0042 | 0.0042 | 0.4200 |
 | 100kΩ Resistor | R2, R3 | 2 | MFR50SFTE52-100K | LCSC | C173137 | 0.0245 | 0.049 | 0.4900 |
 | 470Ω Resistor | R4 | 1 | CRCW0603470RFKEA | LCSC | C844786 | 0.0056 | 0.0056 | 0.5600 |
 | 10kΩ Resistor | R5 | 1 | RC0402FR-0710KL | LCSC | C60490 | 0.0059 | 0.0059 | 0.5900 |
