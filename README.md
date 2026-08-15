@@ -56,9 +56,9 @@ For the battery charger, we ditch wireless charging and instead use the MCP73831
 | 22µF Capacitor | U4 | 1 | GRM32ER71E226ME15K | LCSC | C2167828 | 0.423 | 0.423 | 2.1150 |
 | 3.3nF Capacitor | C8 | 1 | GRM155R71H332KA01D | LCSC | C85963 | 0.0054 | 0.0054 | 0.5400 |
 | 1µF Capacitor | C9 | 1 | 06033C105KAT2A | LCSC | C597116 | 0.0188 | 0.0188 | 0.1880 |
-| 22µH Inductor | D1 | 1 | SRR1260A-220M | LCSC | C3224283 | 0.6678 | 0.6678 | 0.6678 |
+| 22µH Inductor | D1 | 1 | SRR1260A-220M | LCSC | C3224283 | 0.9422 | 0.9422 | 0.9422 |
 | LED | LED1 | 1 | XL-1608SURC-04 | LCSC | C965798 | 0.0057 | 0.0057 | 0.5700 |
-| 2N2222A | Q1, Q2 | 2 | 2N2222A | LCSC | C358533 | 0.0336 | 0.0672 | 0.6720 |
+| 2N2222A | Q1, Q2 | 2 | 2N2222A | LCSC | C358533 | 0.0337 | 0.0674 | 0.6740 |
 | 2kΩ Resistor | R1 | 1 | RC0805FR-072KL | LCSC | C114572 | 0.0082 | 0.0082 | 0.8200 |
 | 100kΩ Resistor | R2, R3 | 2 | MFR50SFTE52-100K | LCSC | C173137 | 0.0234 | 0.0468 | 0.4680 |
 | 470Ω Resistor | R4 | 1 | CRCW0603470RFKEA | LCSC | C844786 | 0.0086 | 0.0086 | 0.8600 |
@@ -66,14 +66,14 @@ For the battery charger, we ditch wireless charging and instead use the MCP73831
 | 3.32MΩ Resistor | R6 | 1 | RC0402FR-073M32L | LCSC | C477691 | 0.0016 | 0.0016 | 0.1600 |
 | 866kΩ Resistor | R7 | 1 | RC0402FR-07866KL | LCSC | C137931 | 0.001 | 0.001 | 0.1000 |
 | IRF4905 | U1 | 1 | AUIRF4905 | LCSC | C533263 | 7.9385 | 7.9385 | 7.9385 |
-| MCP73831T-2ACI/OT | U2 | 1 | MCP73831T-2ACI/OT | LCSC | C424093 | 0.6466 | 0.6466 | 0.6466 |
+| MCP73831T-2ACI/OT | U2 | 1 | MCP73831T-2ACI/OT | LCSC | C424093 | 0.8703 | 0.8703 | 0.8703 |
 | 680kΩ Resistor | U3 | 1 | CR1/4W-680K±5%-RT52 | LCSC | C2896880 | 0.0048 | 0.0048 | 0.4800 |
-| MAX17502FATB+T | U5 | 1 | MAX17502FATB+T | LCSC | C559500 | 1.8516 | 1.8516 | 1.8516 |
+| MAX17502FATB+T | U5 | 1 | MAX17502FATB+T | LCSC | C559500 | 2.3774 | 2.3774 | 2.3774 |
 | 5A Schottky Diode | - | 2 | XL-1608SURC-04 | LCSC | C7503125 | 0.1052 | 0.2104 | 0.5260 |
 
-Total Price per Specified Quantity: $14.58
+Total Price per Specified Quantity: $15.60
 
-Total Price (Min Order Amount): $25.07
+Total Price (Min Order Amount): $26.09
 
 <!-- END COMPONENTS SECTION -->
 
