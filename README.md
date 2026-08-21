@@ -51,7 +51,7 @@ For the battery charger, we ditch wireless charging and instead use the MCP73831
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 10µF Capacitor | C1, C2 | 2 | C1206C106K4RACAUTO | LCSC | C141190 | 0.1384 | 0.2768 | 0.6920 |
 | 10µF Capacitor | C3, C4 | 2 | C1206C106K8RAC7800 | LCSC | C600021 | 0.5075 | 1.015 | 1.0150 |
-| 33µF Capacitor | C5 | 1 | EEEFK1K330P | LCSC | C128461 | 0.4146 | 0.4146 | 2.0730 |
+| 33µF Capacitor | C5 | 1 | EEEFK1K330P | LCSC | C128461 | 0.4011 | 0.4011 | 2.0055 |
 | 2.2µF Capacitor | C6, C7 | 2 | GRM32ER72A225KA35L | LCSC | C86054 | 0.4982 | 0.9964 | 2.4910 |
 | 22µF Capacitor | U4 | 1 | GRM32ER71E226ME15K | LCSC | C2167828 | 0.423 | 0.423 | 2.1150 |
 | 3.3nF Capacitor | C8 | 1 | GRM155R71H332KA01D | LCSC | C85963 | 0.0054 | 0.0054 | 0.5400 |
@@ -63,17 +63,17 @@ For the battery charger, we ditch wireless charging and instead use the MCP73831
 | 100kΩ Resistor | R2, R3 | 2 | MFR50SFTE52-100K | LCSC | C173137 | 0.0234 | 0.0468 | 0.4680 |
 | 470Ω Resistor | R4 | 1 | CRCW0603470RFKEA | LCSC | C844786 | 0.0086 | 0.0086 | 0.8600 |
 | 10kΩ Resistor | R5 | 1 | RC0402FR-0710KL | LCSC | C60490 | 0.0038 | 0.0038 | 0.3800 |
-| 3.32MΩ Resistor | R6 | 1 | RC0402FR-073M32L | LCSC | C477691 | 0.0016 | 0.0016 | 0.1600 |
-| 866kΩ Resistor | R7 | 1 | RC0402FR-07866KL | LCSC | C137931 | 0.001 | 0.001 | 0.1000 |
+| 3.32MΩ Resistor | R6 | 1 | RC0402FR-073M32L | LCSC | C477691 | 0.0021 | 0.0021 | 0.2100 |
+| 866kΩ Resistor | R7 | 1 | RC0402FR-07866KL | LCSC | C137931 | 0.0014 | 0.0014 | 0.1400 |
 | IRF4905 | U1 | 1 | AUIRF4905 | LCSC | C533263 | 7.9385 | 7.9385 | 7.9385 |
-| MCP73831T-2ACI/OT | U2 | 1 | MCP73831T-2ACI/OT | LCSC | C424093 | 0.8711 | 0.8711 | 0.8711 |
+| MCP73831T-2ACI/OT | U2 | 1 | MCP73831T-2ACI/OT | LCSC | C424093 | 0.8739 | 0.8739 | 0.8739 |
 | 680kΩ Resistor | U3 | 1 | CR1/4W-680K±5%-RT52 | LCSC | C2896880 | 0.0048 | 0.0048 | 0.4800 |
 | MAX17502FATB+T | U5 | 1 | MAX17502FATB+T | LCSC | C559500 | 2.3795 | 2.3795 | 2.3795 |
 | 5A Schottky Diode | - | 2 | XL-1608SURC-04 | LCSC | C7503125 | 0.1052 | 0.2104 | 0.5260 |
 
-Total Price per Specified Quantity: $15.64
+Total Price per Specified Quantity: $15.63
 
-Total Price (Min Order Amount): $26.28
+Total Price (Min Order Amount): $26.31
 
 <!-- END COMPONENTS SECTION -->
 
