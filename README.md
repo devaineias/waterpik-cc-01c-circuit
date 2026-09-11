@@ -50,11 +50,11 @@ For the battery charger, we ditch wireless charging and instead use the MCP73831
 | Name | Designator | Quantity | Manufacturer Part | Supplier | Supplier Part | Price per Unit (USD) | Price per Specified Quantity (USD) | Total Price (Min Order Amount) (USD) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 10µF Capacitor | C1, C2 | 2 | C1206C106K4RACAUTO | LCSC | C141190 | 0.139 | 0.278 | 0.6950 |
-| 10µF Capacitor | C3, C4 | 2 | C1206C106K8RAC7800 | LCSC | C600021 | 0.1995 | 0.399 | 0.9975 |
+| 10µF Capacitor | C3, C4 | 2 | C1206C106K8RAC7800 | LCSC | C600021 | 0.1958 | 0.3916 | 0.9790 |
 | 33µF Capacitor | C5 | 1 | EEEFK1K330P | LCSC | C128461 | 0.4009 | 0.4009 | 2.0045 |
 | 2.2µF Capacitor | C6, C7 | 2 | GRM32ER72A225KA35L | LCSC | C86054 | 0.3368 | 0.6736 | 1.6840 |
 | 22µF Capacitor | U4 | 1 | GRM32ER71E226ME15K | LCSC | C2167828 | 0.826 | 0.826 | 0.8260 |
-| 3.3nF Capacitor | C8 | 1 | GRM155R71H332KA01D | LCSC | C85963 | 0.0038 | 0.0038 | 0.3800 |
+| 3.3nF Capacitor | C8 | 1 | GRM155R71H332KA01D | LCSC | C85963 | 0.0064 | 0.0064 | 0.6400 |
 | 1µF Capacitor | C9 | 1 | 06033C105KAT2A | LCSC | C597116 | 0.0197 | 0.0197 | 0.1970 |
 | 22µH Inductor | D1 | 1 | SRR1260A-220M | LCSC | C3224283 | 0.9456 | 0.9456 | 0.9456 |
 | LED | LED1 | 1 | XL-1608SURC-04 | LCSC | C965798 | 0.0057 | 0.0057 | 0.5700 |
@@ -73,7 +73,7 @@ For the battery charger, we ditch wireless charging and instead use the MCP73831
 
 Total Price per Specified Quantity: $15.04
 
-Total Price (Min Order Amount): $23.50
+Total Price (Min Order Amount): $23.74
 
 <!-- END COMPONENTS SECTION -->
 
