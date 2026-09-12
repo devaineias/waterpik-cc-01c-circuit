@@ -60,7 +60,7 @@ For the battery charger, we ditch wireless charging and instead use the MCP73831
 | LED | LED1 | 1 | XL-1608SURC-04 | LCSC | C965798 | 0.0057 | 0.0057 | 0.5700 |
 | 2N2222A | Q1, Q2 | 2 | 2N2222A | LCSC | C358533 | 0.0339 | 0.0678 | 0.6780 |
 | 2kΩ Resistor | R1 | 1 | RC0805FR-072KL | LCSC | C114572 | 0.0062 | 0.0062 | 0.6200 |
-| 100kΩ Resistor | R2, R3 | 2 | MFR50SFTE52-100K | LCSC | C173137 | 0.0235 | 0.047 | 0.4700 |
+| 100kΩ Resistor | R2, R3 | 2 | MFR50SFTE52-100K | LCSC | C173137 | 0.0236 | 0.0472 | 0.4720 |
 | 470Ω Resistor | R4 | 1 | CRCW0603470RFKEA | LCSC | C844786 | 0.006 | 0.006 | 0.6000 |
 | 10kΩ Resistor | R5 | 1 | RC0402FR-0710KL | LCSC | C60490 | 0.0033 | 0.0033 | 0.3300 |
 | 3.32MΩ Resistor | R6 | 1 | RC0402FR-073M32L | LCSC | C477691 | 0.0021 | 0.0021 | 0.2100 |
