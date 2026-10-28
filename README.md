@@ -62,7 +62,7 @@ For the battery charger, we ditch wireless charging and instead use the MCP73831
 | 2kΩ Resistor | R1 | 1 | RC0805FR-072KL | LCSC | C114572 | 0.0047 | 0.0047 | 0.4700 |
 | 100kΩ Resistor | R2, R3 | 2 | MFR50SFTE52-100K | LCSC | C173137 | 0.0236 | 0.0472 | 0.4720 |
 | 470Ω Resistor | R4 | 1 | CRCW0603470RFKEA | LCSC | C844786 | 0.006 | 0.006 | 0.6000 |
-| 10kΩ Resistor | R5 | 1 | RC0402FR-0710KL | LCSC | C60490 | 0.0022 | 0.0022 | 0.2200 |
+| 10kΩ Resistor | R5 | 1 | RC0402FR-0710KL | LCSC | C60490 | 0.0021 | 0.0021 | 0.2100 |
 | 3.32MΩ Resistor | R6 | 1 | RC0402FR-073M32L | LCSC | C477691 | 0.0021 | 0.0021 | 0.2100 |
 | 866kΩ Resistor | R7 | 1 | RC0402FR-07866KL | LCSC | C137931 | 0.0005 | 0.0005 | 0.0500 |
 | IRF4905 | U1 | 1 | AUIRF4905 | LCSC | C533263 | 7.9385 | 7.9385 | 7.9385 |
@@ -73,7 +73,7 @@ For the battery charger, we ditch wireless charging and instead use the MCP73831
 
 Total Price per Specified Quantity: $15.52
 
-Total Price (Min Order Amount): $24.60
+Total Price (Min Order Amount): $24.59
 
 <!-- END COMPONENTS SECTION -->
 
